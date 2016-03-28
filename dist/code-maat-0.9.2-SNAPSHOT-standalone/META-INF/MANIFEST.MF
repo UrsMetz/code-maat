@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: urs
+Created-By: Leiningen 2.6.1
+Build-Jdk: 1.8.0_51
+Main-Class: code_maat.cmd_line
+
